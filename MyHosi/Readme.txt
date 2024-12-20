@@ -1,4 +1,4 @@
-How to run the Auto/Taxi Stand Management Project Using PHP and MySQL
+
 
 1. Download the zip file
 2. Extract the file and copy hospital folder
